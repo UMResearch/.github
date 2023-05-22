@@ -1,4 +1,4 @@
-## Unaccompanied Minor Research 👋
+## Unaccompanied Minor Research
 
 <!--
 🙋‍♀️ A short introduction - what is your organization all about?
