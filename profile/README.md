@@ -18,7 +18,7 @@ The [UMR Case Mnagement] is an white-label case management template that provide
 <!-- OVERVIEW -->
 ### Overview
 
-A case management system built for migrant youth
+A case management system built for migrant youth utilizes interoperable blockchain platforms to identify and improve health outcomes of displaced and marginalized youth. 
 
 
 <!-- TECHNOLOGIES -->
@@ -32,6 +32,6 @@ A case management system built for migrant youth
 ### Use Cases
 
 - Decentralized Storage 
-- Permissionless and identity management 
+- Permissionless and Identity Management 
 - Digital Participatory Research 
-- Data management across multiple workflows 
+- Data Management Across Multiple Workflows 
