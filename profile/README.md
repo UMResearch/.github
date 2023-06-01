@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The availability of reliable information about individuals facilitates universal health coverage, improves cooperation between diaspora-related countries, and supports global health efficiency in line with the third goal of the Sustainable Development Goals 2030 agenda. Given its characteristics of decentralization, resilience, transparency, and auditability.
+The availability universal health coverage, migrant populations, diaspora, global health efficiency in with Sustainable Development Goals(SDG) 2030. 
 
 The [UMR Case Mnagement](https://github.com/harry-oestreicher/umr_cm) app, is an white-label case management template. Provides blockchain ledger features on private and public chains.
 
