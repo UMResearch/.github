@@ -18,18 +18,14 @@ The [UMR Case Mnagement](https://github.com/harry-oestreicher/umr_cm) app, is an
 <!-- OVERVIEW -->
 ### Overview
 
-A web-based content management system built for centralized case management of asylum-seekers, migrants or refugees.
+A case management system built for migrant youth
 
 
 <!-- TECHNOLOGIES -->
 ### Technologies
 
-- Python: alpine-linux based Docker container running python 3.9
-- Django - Core functionality. Handles authentication, data model, hosts administrative and frontend sites, and hosts and API using DjangoRestFramework.
-- Gunicorn - Allows for process handling in a scalable environment.
-- nginx - Proxy for prtoduction environments.
-- Web3 - Smart Contract / Blockchain interaction.
-- NodeJS - Independant frontend app communicating with Django through API. `(in the works)`
+- Front end: 
+- Back end: 
 
 
 <!-- USE CASES -->
