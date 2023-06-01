@@ -31,7 +31,7 @@ A case management system built for migrant youth
 <!-- USE CASES -->
 ### Use Cases
 
-- Decentralized Storage of legal docs public and private (web3 >> Layer 2).
-- Permissionless knowledge and/or identity management (to reduce need for carrying hard copies of documents - instead identity is accessed through thumb print, ocular scan, facial recognition, and this data is stored on permanent blockchain)
-- Digital Participatory Research and/or social networking: for digital solidarity, networking, data exchange, surveillance, peer support
-- Address multiple challenges with managing data across trajectory of approvals and workflows
+- Decentralized Storage 
+- Permissionless and identity management 
+- Digital Participatory Research 
+- Data management across multiple workflows 
