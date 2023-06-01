@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The availability universal health coverage, migrant populations, diaspora, global health efficiency in with Sustainable Development Goals(SDG) 2030. 
+This project focuses on universal health coverage and efficiency for migrant youth as per [UN Development Goals(SDG) 2030](https://sdgs.un.org/goals). 
 
 The [UMR Case Mnagement](https://github.com/harry-oestreicher/umr_cm) app, is an white-label case management template. Provides blockchain ledger features on private and public chains.
 
