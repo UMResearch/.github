@@ -13,14 +13,13 @@
 
 This project focuses on universal health coverage and efficiency for migrant youth as per [UN Development Goals(SDG) 2030](https://sdgs.un.org/goals). 
 
-The [UMR Case Mnagement] is an white-label case management template that provides blockchain ledger features on private and public chains.
-
 <!-- OVERVIEW -->
 ### Overview
 
-A case management system built for migrant youth utilizes interoperable blockchain platforms to identify and improve health outcomes of displaced and marginalized youth. 
+UMR Case Management is a MVP CM tool that provides blockchain ledger data immutability for pubic and private data within a case management context.
 
- 
+A CM solution built for migrant youths which utilizes blockchain platforms to identify and improve health outcomes of displaced and marginalized youth. 
+
 
 <!-- USE CASES -->
 ### Use Cases
