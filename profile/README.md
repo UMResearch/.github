@@ -8,23 +8,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT -->
+## About
 
-This project focuses on universal health coverage and efficiency for migrant youth as per [UN Development Goals(SDG) 2030](https://sdgs.un.org/goals). 
+UMResearch focuses on universal health coverage and efficiency for migrant youth as per [UN Development Goals(SDG) 2030](https://sdgs.un.org/goals). 
 
-<!-- OVERVIEW -->
-### Overview
+<!-- PROJECTS -->
+### Projects
 
-UMR Case Management is a MVP CM tool that provides blockchain ledger data immutability for pubic and private data within a case management context.
-
-A CM solution built for migrant youths which utilizes blockchain platforms to identify and improve health outcomes of displaced and marginalized youth. 
-
-
-<!-- USE CASES -->
-### Use Cases
-
-- Decentralized Storage 
-- Permissionless and Identity Management 
-- Digital Participatory Research 
-- Data Management Across Multiple Workflows 
+- **Exploratory Data Analysis** - Juppyter lab server for data extraction, transformation, and cleanup.
+- **UMR Data Vizualization** - A Streamlit app for data analysis.
+- **UMR Case Management** is a MVP CM tool that provides blockchain ledger data immutability for pubic and private data within a case management context. A CM solution built for migrant youths which utilizes blockchain platforms to identify and improve health outcomes of displaced and marginalized youth.
